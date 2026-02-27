@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="darkreader-lock">
+  <title>Home | Project Yatta (HSR) — Your brand new Honkai: Star Rail Wiki Database</title>
+            <meta name="description" content="Honkai: Star Rail Wiki Database with detailed information about characters, items and more">
+            <meta name="robots" content="index, follow">
+
+            <meta property="og:site_name" content="Project Yatta (HSR) — Honkai: Star Rail Wiki Database">
+            <meta property="og:title" content="Home | Project Yatta (HSR) — Honkai: Star Rail Wiki Database">
+            <meta property="og:description" content="Project Yatta (HSR) — Your brand new Honkai: Star Rail Wiki Database">
+
+            <meta property="og:image" content="https://sr.yatta.moe/icon.png">
+            <meta property="og:type" content="website">
+
+            <meta property="og:url" content="https://sr.yatta.moe">
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="https://sr.yatta.moe">
+            <meta name="twitter:title" content="Home | Project Yatta (HSR) — Your brand new Honkai: Star Rail Wiki Database">
+            <meta name="twitter:description" content="Honkai: Star Rail Wiki Database with detailed information about characters, items and more">
+            <meta name="twitter:image" content="https://sr.yatta.moe/icon.png">
+            
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6K2Z4T6H0S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6K2Z4T6H0S');
+  </script>
+    <script
+    src="https://hb.vntsm.com/v4/live/vms/sites/yatta.moe/index.js"
+    data-disable-placements="vertical-sticky"
+  ></script>
+  <style
+    href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap"
+    rel="preload"></style>
+  <script type="module" crossorigin src="/assets/index-9eed3f15.js"></script>
+  <link rel="stylesheet" href="/assets/index-d807ddbc.css">
+</head>
+
+<body>
+  <div id="app"></div>
+  
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"1d46fb81dd454d5ca5cff7fb2ae04c4c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
